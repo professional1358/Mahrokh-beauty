@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "سرم آبرسان هیالورونیک",
+    "category": "مراقبت پوست",
+    "price": 385000,
+    "description": "آبرسانی عمیق و لطافت پوست",
+    "image": "images/serum.jpg",
+    "tag": "پرفروش"
+  },
+  {
+    "id": 2,
+    "name": "رژ لب مخملی رز",
+    "category": "آرایش",
+    "price": 245000,
+    "description": "رنگدانه غنی با جلوه مات",
+    "image": "images/lipstick.jpg",
+    "tag": "جدید"
+  },
+  {
+    "id": 3,
+    "name": "کرم ضدآفتاب SPF50",
+    "category": "مراقبت پوست",
+    "price": 420000,
+    "description": "محافظت روزانه و بافت سبک",
+    "image": "images/sunscreen.jpg",
+    "tag": ""
+  },
+  {
+    "id": 4,
+    "name": "ریمل حجم‌دهنده",
+    "category": "آرایش",
+    "price": 310000,
+    "description": "حجم‌دهی بدون چسبندگی",
+    "image": "images/mascara.jpg",
+    "tag": ""
+  }
+]
